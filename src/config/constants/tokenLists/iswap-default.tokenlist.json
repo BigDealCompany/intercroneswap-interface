@@ -1,0 +1,196 @@
+{
+  "name": "Iswap Default List BTT",
+  "tokens": [
+    {
+      "name": "InterCrone",
+      "symbol": "ICR_t",
+      "address": "0x096C64d79A85C8FD2E963c4aBD9373301D2cf801",
+      "chainId": 199,
+      "decimals": 8,
+      "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+    },
+    {
+      "name": "InterCrone",
+      "symbol": "ICR_b",
+      "address": "0x252CD063341a1A47933086b93f85417C09C54aec",
+      "chainId": 199,
+      "decimals": 8,
+      "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT_t",
+      "address": "0xdB28719F7f938507dBfe4f0eAe55668903D34a15",
+      "chainId": 199,
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT_b",
+      "address": "0x9B5F27f6ea9bBD753ce3793a07CbA3C74644330d",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT_e",
+      "address": "0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b",
+      "chainId": 199,
+      "decimals": 6,
+      "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+    },
+    {
+      "name": "Decentralized USD",
+      "symbol": "USDD_t",
+      "address": "0x17F235FD5974318E4E2a5e37919a209f7c37A6d1",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/usdd-tron_32.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC_e",
+      "address": "0xAE17940943BA9440540940DB0F1877f101D39e8b",
+      "chainId": 199,
+      "decimals": 6,
+      "logoURI": "https://bttcscan.com/token/images/usdcbttc_32.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC_b",
+      "address": "0xca424b845497f7204d9301bd13ff87c0e2e86fcf",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/usdcbttc_32.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC_t",
+      "address": "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
+      "chainId": 199,
+      "decimals": 6,
+      "logoURI": "https://bttcscan.com/token/images/usdcbttc_32.png"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC_b",
+      "address": "0x1A7019909B10cdD2D8B0034293AD729f1C1F604e",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "WBTC_e",
+      "address": "0x9888221fE6B5A2ad4cE7266c7826D2AD74D40CcF",
+      "chainId": 199,
+      "decimals": 8,
+      "logoURI": "https://bttcscan.com/token/images/wrappedbtcbtt_32.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x1249C65AfB11D179FFB3CE7D4eEDd1D9b98AD006",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH_b",
+      "address": "0xa20dfb01dca223c0e52b0d4991d4afa7e08e3a50",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+    },
+    {
+      "name": "SushiToken",
+      "symbol": "SUSHI_e",
+      "address": "0x53c56ece35f8cab135e13d6d00499dfc7c07a92e",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/sushitoken_32.png"
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x185a4091027E2dB459a2433F85f894dC3013aeB5",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/binancebnb_32.png"
+    },
+    {
+      "name": "Tron",
+      "symbol": "TRX",
+      "address": "0xEdf53026aeA60f8F75FcA25f8830b7e2d6200662",
+      "chainId": 199,
+      "decimals": 6,
+      "logoURI": "https://bscscan.com/token/images/tron_32.png"
+    },
+    {
+      "name": "UpStable",
+      "symbol": "USTX",
+      "address": "0x6c8c028d3592b83d6a1d0f53635557fd8dd31545",
+      "chainId": 199,
+      "decimals": 6,
+      "logoURI": "https://bttcscan.com/token/images/ustx_32.png"
+    },
+    {
+      "name": "PEPMAN",
+      "symbol": "PMAN",
+      "address": "0xe1da8A0A7E91903a4F41Cc6d388db5CA4917e784",
+      "chainId": 199,
+      "decimals": 8,
+      "logoURI": "https://www.pepman.vip/wp-content/uploads/2023/04/PepMan32.png"
+    },
+    {
+      "name": "PEPERUN",
+      "symbol": "PRUN",
+      "address": "0x0445F72E4Dcade5e8F25266373F0f901890041bF",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/InterCroneworldOrg/logo/main/run.png"
+    },
+    {
+      "name": "OIL",
+      "symbol": "OIL",
+      "address": "0x83CebAAe144aB323b3505214Cc26101968e4D75d",
+      "chainId": 199,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/InterCroneworldOrg/logo/main/oil100x100.png"
+    },
+    {
+      "name": "Shitcoin",
+      "symbol": "SHIT",
+      "address": "0x3df3E659A9157Df57DDd79118533e38DED129cD1",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/shitcoinshit_32.png"
+    },
+    {
+      "name": "Purple Youth",
+      "symbol": "PY",
+      "address": "0xE8456D1105f38e394ea4b0f9B3AA61597c0B39c9",
+      "chainId": 199,
+      "decimals": 18,
+      "logoURI": "https://bttcscan.com/token/images/purpleyouth_32.png"
+    },
+    {
+      "name": "JustMoney",
+      "symbol": "JM",
+      "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
+      "chainId": 199,
+      "decimals": 8,
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
+    }
+  ],
+  "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
+  "version": {
+    "patch": 5,
+    "major": 1,
+    "minor": 3
+  },
+  "timestamp": "2023-28-03T00:12:46.685Z"
+}
