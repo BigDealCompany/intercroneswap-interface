@@ -1,5 +1,5 @@
 import { ChainId, Token, WETH } from '@intercroneswap/v2-sdk';
-import { BACKEND_URL } from '.';
+// import { BACKEND_URL } from '.';
 
 export function getTokensFromDefaults(symbols: string): [Token, Token] | undefined {
   const symbolsSplit = symbols.split('-');
@@ -14,7 +14,8 @@ export function getTokensFromDefaults(symbols: string): [Token, Token] | undefin
 export let tokensFromApi: Token[] = [];
 
 export const fetchTokens = async () => {
-  const response = await fetch(`${BACKEND_URL}/tokens/all?chainId=11111`, {
+  const response = await fetch(`https://api.intercroneswap.com/tokens/all?chainId=11111`, {
+    // const response = await fetch(`${BACKEND_URL}/tokens/all?chainId=11111`, {
     method: 'GET',
     mode: 'cors',
   });
